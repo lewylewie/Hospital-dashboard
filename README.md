@@ -11,6 +11,7 @@ Consolidated View -	Landing/summary page with overall KPI cards, charts, and sli
 Monthly View -	Time-series analysis of patient volume and wait times, broken down by month, day, and year
 
 Patient Details -	A searchable, filterable table of individual patient records for drill-down analysis
+
 Key Takeaways -	Narrative-style summary page highlighting the report's main insights
 ## Metrics & Fields Tracked
 •	Volume: Number of patients, number of patients referred
