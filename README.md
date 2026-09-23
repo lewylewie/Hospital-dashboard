@@ -14,16 +14,23 @@ Patient Details -	A searchable, filterable table of individual patient records f
 Key Takeaways -	Narrative-style summary page highlighting the report's main insights
 ## Metrics & Fields Tracked
 •	Volume: Number of patients, number of patients referred
+
 •	Wait Times: Average wait time, total wait time, wait-time interval buckets
+
 •	Satisfaction: Patient satisfaction score
+
 •	Admissions: Admission status
+
 •	Demographics: Patient age, age group, gender, race
+
 •	Operations: Department referrals
+
 •	Time: Patient admission date, day/month/year trends
 ## Visual Types Used
 Card KPIs, area charts, column/bar charts (including clustered bars), donut charts, pivot tables, a detail table, slicers, and page navigation buttons — all built natively in Power BI.
 ## Tools & Skills
 •	Power BI Desktop (data modeling, DAX measures, report design)
+
 •	Data cleaning and relationship modeling between fact and date tables
 •	Interactive filtering via slicers and cross-highlighting between visuals
 
